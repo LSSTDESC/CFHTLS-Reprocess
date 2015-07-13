@@ -3,7 +3,7 @@
 | Title|CFHTLS Data Reprocessing|
 |----------|-------------------------|
 | Primary Lead(s)                       | Boutigny |                                  |---------------------------------------|--------------------------------------------------------------|
-| Interested DESC Members               | Dell'antonio, Marshall, Schneider ...|
+| Interested DESC Members               |  Cohen-Tanugi
 | DESC Working Groups                   | SL, WL, CL                                              |---------------------------------------|--------------------------------------------------------------|
 | Start Date (approximate)              | September 2015                                                     |---------------------------------------|--------------------------------------------------------------|
 | End Date (approximate)                | December 2016                                                     |---------------------------------------|-----------------------------------------------------------|
@@ -12,6 +12,8 @@
 
 
 ### Brief Project Summary
+
+*With contributions / ideas from : Dell'antonio, Marshall, Schneider, Tyson, ...*
 
 We are proposing to reprocess the CFHTLS dataset using the LSST DM stack with the following goals :
 
