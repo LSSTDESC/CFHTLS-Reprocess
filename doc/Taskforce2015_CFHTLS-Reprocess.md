@@ -23,7 +23,7 @@ We are proposing to reprocess the CFHTLS dataset using the LSST DM stack with th
 4. understand how to develop future level-3 code in the DM framework
 5. wherever possible, re-analyze CFHTLS data and publish improved results  
 
-CFHTLS data is a well known dataset and several science en technical papers have been published, providing references to challenge the DESC / LSST pipelines. Using the CFHTLS deep fields and the overlapping HST ones, it is for instance possible to test various deblending technics. +
+CFHTLS is a well known dataset and several science en technical papers have been published, providing references to challenge and develop the DESC / LSST pipelines. Using the CFHTLS deep fields and the overlapping HST ones, it is for instance possible to test various deblending technics. +
 
 Several physicists at IN2P3 and members of the DESC have a deep knowledge of the CFHTLS data through the SuperNovae Legacy Survey (SNLS) project. 
 
