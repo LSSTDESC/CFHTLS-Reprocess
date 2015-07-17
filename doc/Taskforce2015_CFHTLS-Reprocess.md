@@ -3,7 +3,7 @@
 | Title|CFHTLS Data Reprocessing|
 |----------|-------------------------|
 | Primary Lead(s)                       | Boutigny |                                  |---------------------------------------|--------------------------------------------------------------|
-| Interested DESC Members               |  Cohen-Tanugi, Dawson, Dodelson
+| Interested DESC Members               | Cohen-Tanugi, Dawson, Dodelson, Gris, ...
 | DESC Working Groups                   | SL, WL, CL                                              |---------------------------------------|--------------------------------------------------------------|
 | Start Date (approximate)              | September 2015                                                     |---------------------------------------|--------------------------------------------------------------|
 | End Date (approximate)                | December 2016                                                     |---------------------------------------|-----------------------------------------------------------|
@@ -46,6 +46,6 @@ All the CFHTLS datasets (D1-D4 and W1-W4) are available at the IN2P3 Computing C
 
 It is also possible to transfer part of, or all the data on a computing center (to be identified) in the US and to perform part of the reprocessing there.
 
-The ouput calatogs and images will be made available either through network access or with a direct copy in a place to be specified.
+The ouput calatogs and images will be made available either through network access or with a direct copy in a place to be specified at a later stage.
 
-A detailed estimation of the resources needed to reprocess the full data sets is still to be made but based on previous tests, processing 360 D3 field images (r filter) require ~10 TB of disk space, or ~50 TB for 5 filters. The output catalogs are order of magnitudes smaller (to be precisely estimated). 
+A precise estimation of the resources needed to reprocess the full data sets is still to be made but based on previous tests, processing 360 D3 field images (r filter) require ~10 TB of disk space, or ~50 TB for 5 filters. The output catalogs are order of magnitudes smaller (to be precisely estimated). 
