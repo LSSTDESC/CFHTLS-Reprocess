@@ -3,7 +3,7 @@
 | Title|CFHTLS Data Reprocessing|
 |----------|-------------------------|
 | Primary Lead(s)                       | Boutigny |                                  |---------------------------------------|--------------------------------------------------------------|
-| Interested DESC Members               | Cohen-Tanugi, Dawson, Dodelson, Gris, Tyson, Walter, ...
+| Interested DESC Members               | Cohen-Tanugi, Dawson, Dodelson, Gris, Tyson, Walter, Dell'Antonio ...
 | DESC Working Groups                   | SL, WL, CL                                              |---------------------------------------|--------------------------------------------------------------|
 | Start Date (approximate)              | September 2015                                                     |---------------------------------------|--------------------------------------------------------------|
 | End Date (approximate)                | December 2016                                                     |---------------------------------------|-----------------------------------------------------------|
