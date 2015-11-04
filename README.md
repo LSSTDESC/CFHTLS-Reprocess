@@ -1,5 +1,5 @@
 # CFHTLS-Reprocess
-DESC Reprocessing of the CFHT Legacy Survey data with the DM Stack
+DESC Task Force for Reprocessing of the CFHT +DLS + SuprimeCam data with the DM Stack
 
 Currently this repository contains :
 - an issue tracker for the reprocessing work including labels and milestones
